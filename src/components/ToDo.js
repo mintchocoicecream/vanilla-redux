@@ -8,8 +8,8 @@ function ToDo({text, onBtnClick, id}) {
         <li>
             <Link to={`/${id}`}>
                 {text} 
-                <button onClick={onBtnClick}>Del</button>
             </Link>
+            <button onClick={onBtnClick}>Del</button>
         </li>
     );
 }
