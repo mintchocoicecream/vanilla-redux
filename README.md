@@ -23,7 +23,7 @@ state를 절대로 직접 mutate하지 않고 새 array를 return한다.
 
 - Redux Toolkit의 createAction, createReducer, configureStore,그리고 createSlice를 사용하여 코드 양 줄이기
 
-### ```npm install @reduxjs/toolkit```
+```npm install @reduxjs/toolkit```
 
 
 
